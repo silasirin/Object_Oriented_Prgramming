@@ -1,0 +1,22 @@
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.Form1.resources
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\bin\Debug\OOP_Bakiye.exe.config
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\bin\Debug\OOP_Bakiye.exe
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\bin\Debug\OOP_Bakiye.pdb
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.exe
+C:\Users\Sıla Şirin\Desktop\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\bin\Debug\OOP_Bakiye.exe.config
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\bin\Debug\OOP_Bakiye.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\bin\Debug\OOP_Bakiye.pdb
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.Form1.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.exe
+C:\Users\Sıla Şirin\Desktop\BİLGE ADAM\.NET YAZILIM\2022\OOP\OOP_Bakiye\OOP_Bakiye\obj\Debug\OOP_Bakiye.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\bin\Debug\OOP_AracKayit.exe.config
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\bin\Debug\OOP_AracKayit.exe
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\bin\Debug\OOP_AracKayit.pdb
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.Form1.resources
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.exe
+C:\Users\Sıla Şirin\Desktop\OOP_AracKayit\OOP_AracKayit\obj\Debug\OOP_AracKayit.pdb

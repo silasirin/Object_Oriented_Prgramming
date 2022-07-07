@@ -1,0 +1,29 @@
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\bin\Debug\OOP_McAdam.exe.config
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\bin\Debug\OOP_McAdam.exe
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\bin\Debug\OOP_McAdam.pdb
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.csproj.AssemblyReference.cache
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.Form1.resources
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.Properties.Resources.resources
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.csproj.GenerateResource.cache
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.csproj.CoreCompileInputs.cache
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.exe
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.pdb
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.EkstraOlustur.resources
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.MenuOlustur.resources
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.Siparisler.resources
+C:\Users\sila.sirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.SiparisOlustur.resources
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\bin\Debug\OOP_McAdam.exe.config
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\bin\Debug\OOP_McAdam.exe
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\bin\Debug\OOP_McAdam.pdb
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.csproj.AssemblyReference.cache
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.EkstraOlustur.resources
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.Form1.resources
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.MenuOlustur.resources
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.Properties.Resources.resources
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.Siparisler.resources
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.SiparisOlustur.resources
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.csproj.GenerateResource.cache
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.csproj.CoreCompileInputs.cache
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.exe
+C:\Users\Sıla Şirin\Desktop\OOP_McAdam\OOP_McAdam\obj\Debug\OOP_McAdam.pdb

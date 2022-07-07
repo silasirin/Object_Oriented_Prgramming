@@ -1,0 +1,10 @@
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\bin\Debug\OOP_InheritanceOrnek.exe.config
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\bin\Debug\OOP_InheritanceOrnek.exe
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\bin\Debug\OOP_InheritanceOrnek.pdb
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\obj\Debug\OOP_InheritanceOrnek.csproj.AssemblyReference.cache
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\obj\Debug\OOP_InheritanceOrnek.Form1.resources
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\obj\Debug\OOP_InheritanceOrnek.Properties.Resources.resources
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\obj\Debug\OOP_InheritanceOrnek.csproj.GenerateResource.cache
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\obj\Debug\OOP_InheritanceOrnek.csproj.CoreCompileInputs.cache
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\obj\Debug\OOP_InheritanceOrnek.exe
+C:\Users\sila.sirin\Desktop\OOP_InheritanceOrnek\OOP_InheritanceOrnek\obj\Debug\OOP_InheritanceOrnek.pdb
